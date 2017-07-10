@@ -1,0 +1,34 @@
+body {
+  background: #C3DAC3;
+}
+
+.container {
+  text-align: center;
+}
+
+.quoteBox {
+  background: #D5ECD4;
+  width: 600px;
+  height: 300px;
+  display: inline-block;
+  text-align: left;
+}
+
+.quote {
+  width: 100%;
+  height: 70%;
+  margin: 0;
+}
+
+.origin {
+  width: 100%;
+  height: 30%;
+  margin: 0;
+}
+
+.buttons h1 {
+  display: inline-block;
+  border: 2px solid black;
+  margin: 50px;
+  padding: 10px;
+}
